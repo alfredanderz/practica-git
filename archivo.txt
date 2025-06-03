@@ -1,2 +1,3 @@
 creacion del archivo practica
 
+linea 1 del user1
