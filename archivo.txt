@@ -1,5 +1,9 @@
 creacion del archivo practica
 
+linea 1 del user1
+linea 2 del user1
+linea 3 del user1
+
 linea 1 de user2
 linea 2 de user2
 linea 3 de user2
